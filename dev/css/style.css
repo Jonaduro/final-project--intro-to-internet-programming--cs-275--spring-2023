@@ -1,0 +1,26 @@
+h1 {
+text-align:center ;
+color: blue;
+}
+
+table, td {
+  border: 2px solid black;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  margin: 20px 0;
+  background-color: blanchedalmond;
+}
+td {
+padding:12px;
+}
+.matrix {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.unflipped {
+  background-color: red;
+}
