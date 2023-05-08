@@ -1,0 +1,15 @@
+{
+  "name": "final-project--intro-to-internet-programming--cs-275--spring-2023",
+  "version": "1.0.0",
+  "description": "* **Do not start this project until you have read these instructions carefully.** * **Read these instructions repeatedly until you understand, then begin your project. If something is not clear, ask.**",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jonaduro"
+  },
+  "author": "",
+  "license": "ISC"
+}
